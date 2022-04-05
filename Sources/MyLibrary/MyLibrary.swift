@@ -5,6 +5,6 @@ public struct MyLibrary {
     }
     
     public func HellowToYou() -> String {
-        return "Hello To You! "
+        return "Hello To You ! "
     }
 }
